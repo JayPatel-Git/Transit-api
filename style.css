@@ -1,0 +1,19 @@
+html {
+    margin: 2px;
+}
+
+li {
+    padding: 2px;
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+li:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.open {
+    background-color: aliceblue;
+    border: 1px solid gray;
+}

@@ -1,0 +1,5 @@
+get langitude longitude based on html5 giolocation object:
+
+navigator: supported inbuild object
+.geolocation: obj of navigator
+.getCurrentPosition() : method on geolocation -- takes callback with one must parameter-- which in turn has a .coords.latitude and .coords.longitude.-- which returns floting point values of users current location..

@@ -1,0 +1,10 @@
+{
+    "short_name": "winnipeg_Bus_Schedule",
+    "name": "transit",
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+}
+
